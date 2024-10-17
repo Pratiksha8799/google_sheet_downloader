@@ -1,0 +1,20 @@
+Id,Name,Machine No .,Microsoft Software Installed ,Other Softwares 
+1,Sam,Machine-8,NA,"Informatica , Anaconda Navigator ,Pycharm,WPS"
+2,Riya,Machine-61,NA,"Informatica , Anaconda Navigator ,WPS"
+3,Raj,Machine-007,Office - 365 ,"Anaconda Navigator , Microsoft Azure "
+4,Ram,Machine -001,"Office - 365,SSMS","Uipath Studio , Visual Studio "
+5,Niraj,Machine -018,NA,"Anaconda Navigator ,WPS"
+6,Shyam,PUN-DT-LEN-124,NA,"Anaconda Navigator ,WPS"
+7,Nishant,PUN\DT\LEN\21\6,NA,"Anaconda Navigator ,WPS"
+8,Mahadev,Machine-08,Office - 365 ,"Anaconda Navigator ,Blue Prism "
+9,Rani,DESKTOP-CC4J5MG,,
+10,Arnav,48/PUNE/PCD/21,"office-365 (Word, Excel), Skype","AVG Antivirus, Sublime Text"
+11,Danny,22/Pune/PCD/18,MS office,"Tableau Desktop, Tableau Prep builder, MySQL Workbench"
+12,John,CPU/SD/55,"MS office, Power BI, SSMS, Visual Studio",AVG Navigator
+13,Pratik,PUN/DT/LEN/21/9,"MS office, Power bi, SSMS",AVG Navigator
+14,Pranjali,123,NA,Tableau Desktop
+15,Rushi,PUN/DT/LEN/21/10,NA,WPS
+16,Jane,PUN\DT\LEN\21\8,NA,WPS
+17,Raman,CPU/SD/56,NA,WPS
+18,Sonia,PUN\LPT\LEN\20\01,MS Office/SSMS-18,"Anaconda Navigator, Blue Prism,Pycharm,Outsystem,MySQL Workbench"
+19,Sheela,Machine - 212,MS Office,"Anaconda Navigator, Azure, AWS, Pycharm, VS, WPS"

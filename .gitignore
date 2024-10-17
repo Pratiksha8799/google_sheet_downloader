@@ -1,0 +1,43 @@
+
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE or Editor Configurations
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
+
+# JSON files
+*.json
+
+# Google folder
+Google/
+
+# Logs
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Coverage Reports
+.coverage
+*.cover
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
